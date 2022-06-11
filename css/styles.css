@@ -1,0 +1,23 @@
+:root {
+    /* fonts */
+    --main-font: "Roboto";
+    --secondary-font: "Raleway";
+
+    /* txt-colors */
+
+    /* bg-colors */
+
+    /* others */
+}
+
+body {
+    font-family: var(--secondary-font)
+}
+
+.list {
+    list-style: none;
+}
+
+.link {
+    text-decoration: none;
+}
